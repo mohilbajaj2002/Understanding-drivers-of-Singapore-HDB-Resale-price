@@ -1,0 +1,185 @@
+,stn_code,mrt_station_english,mrt_line_english,latitude,longitude
+0,NS1,Jurong East MRT Station Singapore,North South Line,1.3331306,103.7420909
+1,NS2,Bukit Batok MRT Station Singapore,North South Line,1.3485061,103.7492218
+2,NS3,Bukit Gombak MRT Station Singapore,North South Line,1.3589147,103.7518308
+3,NS4,Choa Chu Kang MRT Station Singapore,North South Line,1.3853846,103.7443373
+4,NS5,Yew Tee MRT Station Singapore,North South Line,1.3973289,103.7475018
+5,NS7,Kranji MRT Station Singapore,North South Line,1.4252268,103.7620278
+6,NS8,Marsiling MRT Station Singapore,North South Line,1.4325578,103.7741607
+7,NS9,Woodlands MRT Station Singapore,North South Line,1.4369416,103.7863953
+8,NS10,Admiralty MRT Station Singapore,North South Line,1.440613,103.8009629
+9,NS11,Sembawang MRT Station Singapore,North South Line,1.4490801,103.8200578
+10,NS13,Yishun MRT Station Singapore,North South Line,1.4295484,103.8350332
+11,NS14,Khatib MRT Station Singapore,North South Line,1.4173483,103.8329731
+12,NS15,Yio Chu Kang MRT Station Singapore,North South Line,1.3817217,103.844934
+13,NS16,Ang Mo Kio MRT Station Singapore,North South Line,1.3699718,103.8495876
+14,NS17,Bishan MRT Station Singapore,North South Line,1.3510417,103.8499304
+15,NS18,Braddell MRT Station Singapore,North South Line,1.3405397,103.8470762
+16,NS19,Toa Payoh MRT Station Singapore,North South Line,1.3323297,103.8474252
+17,NS20,Novena MRT Station Singapore,North South Line,1.3204553,103.8437867
+18,NS21,Newton MRT Station Singapore,North South Line,1.3136071,103.837811
+19,NS22,Orchard MRT Station Singapore,North South Line,1.3040084,103.831781
+20,NS23,Somerset MRT Station Singapore,North South Line,1.3006433,103.8385237
+21,NS24,Dhoby Ghaut MRT Station Singapore,North South Line,1.2994693,103.8454005
+22,NS25,City Hall MRT Station Singapore,North South Line,1.293076,103.8520677
+23,NS26,Raffles Place MRT Station Singapore,North South Line,1.2830173,103.8513365
+24,NS27,Marina Bay MRT Station Singapore,North South Line,1.2765211,103.8547012
+25,NS28,Marina South Pier MRT Station Singapore,North South Line,1.2714087,103.863631
+26,EW1,Pasir Ris MRT Station Singapore,East West Line,1.3731912,103.9493534
+27,EW2,Tampines MRT Station Singapore,East West Line,1.353223,103.9451712
+28,EW3,Simei MRT Station Singapore,East West Line,1.3431974,103.9533771
+29,EW4,Tanah Merah MRT Station Singapore,East West Line,1.3272444,103.9464897
+30,EW5,Bedok MRT Station Singapore,East West Line,1.3240113,103.9301725
+31,EW6,Kembangan MRT Station Singapore,East West Line,1.321004,103.9130221
+32,EW7,Eunos MRT Station Singapore,East West Line,1.3197457,103.9028867
+33,EW8,Paya Lebar MRT Station Singapore,East West Line,1.3181378,103.8929866
+34,EW9,Aljunied MRT Station Singapore,East West Line,1.3164593,103.8830873
+35,EW10,Kallang MRT Station Singapore,East West Line,1.3114784,103.8713507
+36,EW11,Lavender MRT Station Singapore,East West Line,1.3078275,103.8633777
+37,EW12,Bugis MRT Station Singapore,East West Line,1.3010989,103.8561152
+38,EW13,City Hall MRT Station Singapore,East West Line,1.293076,103.8520677
+39,EW14,Raffles Place MRT Station Singapore,East West Line,1.2830173,103.8513365
+40,EW15,Tanjong Pagar MRT Station Singapore,East West Line,1.2763434,103.8467763
+41,EW16,Outram Park MRT Station Singapore,East West Line,1.280214,103.8402559
+42,EW17,Tiong Bahru MRT Station Singapore,East West Line,1.2864775,103.8269997
+43,EW18,Redhill MRT Station Singapore,East West Line,1.2896276,103.8167623
+44,EW19,Queenstown MRT Station Singapore,East West Line,1.2948352,103.8059016
+45,EW20,Commonwealth MRT Station Singapore,East West Line,1.3023957,103.7983157
+46,EW21,Buona Vista MRT Station Singapore,East West Line,1.3072578,103.7899857
+47,EW22,Dover MRT Station Singapore,East West Line,1.3113761,103.7786986
+48,EW23,Clementi MRT Station Singapore,East West Line,1.3151606,103.765206
+49,EW24,Jurong East MRT Station Singapore,East West Line,1.3331306,103.7420909
+50,EW25,Chinese Garden MRT Station Singapore,East West Line,1.3423961,103.7325764
+51,EW26,Lakeside MRT Station Singapore,East West Line,1.344243,103.7207754
+52,EW27,Boon Lay MRT Station Singapore,East West Line,1.3385559,103.7058277
+53,EW28,Pioneer MRT Station Singapore,East West Line,1.3385559,103.7058277
+54,EW29,Joo Koon MRT Station Singapore,East West Line,1.3277513,103.6783178
+55,EW30,Gul Circle MRT Station Singapore,East West Line,1.3197555,103.6608303
+56,EW31,Tuas Crescent MRT Station Singapore,East West Line,1.3210266,103.6490755
+57,EW32,Tuas West Road MRT Station Singapore,East West Line,1.3300485,103.6396175
+58,EW33,Tuas Link MRT Station Singapore,East West Line,1.3403171,103.6368663
+59,CG1,Expo MRT Station Singapore,Changi Airport Branch Line,1.3344041,103.9614807
+60,CG2,Changi Airport MRT Station Singapore,Changi Airport Branch Line,1.3576001,103.9884873
+61,NE1,HarbourFront MRT Station Singapore,North East Line,1.2656038,103.8208568
+62,NE3,Outram Park MRT Station Singapore,North East Line,1.280214,103.8402559
+63,NE4,Chinatown MRT Station Singapore,North East Line,1.2847875,103.8439312
+64,NE5,Clarke Quay MRT Station Singapore,North East Line,1.288477,103.846756
+65,NE6,Dhoby Ghaut MRT Station Singapore,North East Line,1.2994693,103.8454005
+66,NE7,Little India MRT Station Singapore,North East Line,1.3062896,103.8493919
+67,NE8,Farrer Park MRT Station Singapore,North East Line,1.3126142,103.8548616
+68,NE9,Boon Keng MRT Station Singapore,North East Line,1.3193315,103.8620193
+69,NE10,Potong Pasir MRT Station Singapore,North East Line,1.3311575,103.8690734
+70,NE11,Woodleigh MRT Station Singapore,North East Line,1.3391274,103.8707373
+71,NE12,Serangoon MRT Station Singapore,North East Line,1.3497383,103.8736211
+72,NE13,Kovan MRT Station Singapore,North East Line,1.3600233,103.8853569
+73,NE14,Hougang MRT Station Singapore,North East Line,1.3713312,103.8925439
+74,NE15,Buangkok MRT Station Singapore,North East Line,1.3831446,103.8931018
+75,NE16,Sengkang MRT Station Singapore,North East Line,1.3915277,103.8954161
+76,NE17,Punggol MRT Station Singapore,North East Line,1.40517,103.9023559
+77,CC1,Dhoby Ghaut MRT Station Singapore,Circle Line,1.2994693,103.8454005
+78,CC2,Bras Basah MRT Station Singapore,Circle Line,1.2969461,103.8507366
+79,CC3,Esplanade MRT Station Singapore,Circle Line,1.2939413,103.8553744
+80,CC4,Promenade MRT Station Singapore,Circle Line,1.2939413,103.8553744
+81,CC5,Nicoll Highway MRT Station Singapore,Circle Line,1.3002399,103.8635784
+82,CC6,Stadium MRT Station Singapore,Circle Line,1.3027829,103.8754063
+83,CC7,Mountbatten MRT Station Singapore,Circle Line,1.30841,103.888814
+84,CC8,Dakota MRT Station Singapore,Circle Line,1.30841,103.888814
+85,CC9,Paya Lebar MRT Station Singapore,Circle Line,1.3181378,103.8929866
+86,CC10,MacPherson MRT Station Singapore,Circle Line,1.3267261,103.88991
+87,CC11,Tai Seng MRT Station Singapore,Circle Line,1.3358756,103.8877164
+88,CC12,Bartley MRT Station Singapore,Circle Line,1.3422592,103.8802886
+89,CC13,Serangoon MRT Station Singapore,Circle Line,1.3497383,103.8736211
+90,CC14,Lorong Chuan MRT Station Singapore,Circle Line,1.3515466,103.8646114
+91,CC15,Bishan MRT Station Singapore,Circle Line,1.3510417,103.8499304
+92,CC16,Marymount MRT Station Singapore,Circle Line,1.3490142,103.8390947
+93,CC17,Caldecott MRT Station Singapore,Circle Line,1.3375953,103.8396058
+94,CC19,Botanic Gardens MRT Station Singapore,Circle Line,1.3223117,103.8149268
+95,CC20,Farrer Road MRT Station Singapore,Circle Line,1.3175741,103.807711
+96,CC21,Holland Village MRT Station Singapore,Circle Line,1.3111325,103.7961377
+97,CC22,Buona Vista MRT Station Singapore,Circle Line,1.3072578,103.7899857
+98,CC23,one-north MRT Station Singapore,Circle Line,1.299949,103.7874148
+99,CC24,Kent Ridge MRT Station Singapore,Circle Line,1.2924896,103.7848814
+100,CC25,Haw Par Villa MRT Station Singapore,Circle Line,1.2830841,103.7819799
+101,CC26,Pasir Panjang MRT Station Singapore,Circle Line,1.2760331,103.7919041
+102,CC27,Labrador Park MRT Station Singapore,Circle Line,1.2721259,103.8025575
+103,CC28,Telok Blangah MRT Station Singapore,Circle Line,1.2707152,103.809878
+104,CC29,HarbourFront MRT Station Singapore,Circle Line,1.2656038,103.8208568
+105,CE1,Bayfront MRT Station Singapore,Circle Line Extension,1.2813386,103.8589551
+106,CE2,Marina Bay MRT Station Singapore,Circle Line Extension,1.2765211,103.8547012
+107,DT1,Bukit Panjang MRT Station Singapore,Downtown Line,1.3783155,103.762459
+108,DT2,Cashew MRT Station Singapore,Downtown Line,1.3699756,103.7645794
+109,DT3,Hillview MRT Station Singapore,Downtown Line,1.3622194,103.7671137
+110,DT5,Beauty World MRT Station Singapore,Downtown Line,1.3415532,103.7757466
+111,DT6,King Albert Park MRT Station Singapore,Downtown Line,1.3356578,103.783202
+112,DT7,Sixth Avenue MRT Station Singapore,Downtown Line,1.3311776,103.7972016
+113,DT8,Tan Kah Kee MRT Station Singapore,Downtown Line,1.3257996,103.8079556
+114,DT9,Botanic Gardens MRT Station Singapore,Downtown Line,1.3223117,103.8149268
+115,DT10,Stevens MRT Station Singapore,Downtown Line,1.3199584,103.8259427
+116,DT11,Newton MRT Station Singapore,Downtown Line,1.3136071,103.837811
+117,DT12,Little India MRT Station Singapore,Downtown Line,1.3062896,103.8493919
+118,DT13,Rochor MRT Station Singapore,Downtown Line,1.3035362,103.8525596
+119,DT14,Bugis MRT Station Singapore,Downtown Line,1.3010989,103.8561152
+120,DT15,Promenade MRT Station Singapore,Downtown Line,1.2939413,103.8553744
+121,DT16,Bayfront MRT Station Singapore,Downtown Line,1.2813386,103.8589551
+122,DT17,Downtown MRT Station Singapore,Downtown Line,1.2794576,103.8528128
+123,DT18,Telok Ayer MRT Station Singapore,Downtown Line,1.282221,103.8485947
+124,DT19,Chinatown MRT Station Singapore,Downtown Line,1.2847875,103.8439312
+125,DT20,Fort Canning MRT Station Singapore,Downtown Line,1.2921101,103.844762
+126,DT21,Bencoolen MRT Station Singapore,Downtown Line,1.2990136,103.8505193
+127,DT22,Jalan Besar MRT Station Singapore,Downtown Line,1.3055083,103.8554325
+128,DT23,Bendemeer MRT Station Singapore,Downtown Line,1.3193315,103.8620193
+129,DT24,Geylang Bahru MRT Station Singapore,Downtown Line,1.321431,103.871702
+130,DT25,Mattar MRT Station Singapore,Downtown Line,1.3272214,103.8828949
+131,DT26,MacPherson MRT Station Singapore,Downtown Line,1.3267261,103.88991
+132,DT27,Ubi MRT Station Singapore,Downtown Line,1.3298687,103.900048
+133,DT28,Kaki Bukit MRT Station Singapore,Downtown Line,1.334927,103.909016
+134,DT29,Bedok North MRT Station Singapore,Downtown Line,1.3351391,103.918397
+135,DT30,Bedok Reservoir MRT Station Singapore,Downtown Line,1.3351391,103.918397
+136,DT31,Tampines West MRT Station Singapore,Downtown Line,1.3450224,103.9383712
+137,DT32,Tampines MRT Station Singapore,Downtown Line,1.353223,103.9451712
+138,DT33,Tampines East MRT Station Singapore,Downtown Line,1.3563083,103.9546511
+139,DT34,Upper Changi MRT Station Singapore,Downtown Line,1.3240113,103.9301725
+140,DT35,Expo MRT Station Singapore,Downtown Line,1.3344041,103.9614807
+141,BP1,Choa Chu Kang MRT Station Singapore,Bukit Panjang LRT,1.3853846,103.7443373
+142,BP2,South View MRT Station Singapore,Bukit Panjang LRT,1.3802874,103.7453211
+143,BP3,Keat Hong MRT Station Singapore,Bukit Panjang LRT,1.378686,103.748947
+144,BP4,Teck Whye MRT Station Singapore,Bukit Panjang LRT,1.376823,103.752907
+145,BP5,Phoenix MRT Station Singapore,Bukit Panjang LRT,1.378468,103.757622
+146,BP6,Bukit Panjang MRT Station Singapore,Bukit Panjang LRT,1.3783155,103.762459
+147,BP7,Petir MRT Station Singapore,Bukit Panjang LRT,1.3777189,103.766649
+148,BP8,Pending MRT Station Singapore,Bukit Panjang LRT,1.3762036,103.7712979
+149,BP9,Bangkit MRT Station Singapore,Bukit Panjang LRT,1.380215,103.7725763
+150,BP10,Fajar MRT Station Singapore,Bukit Panjang LRT,1.3845756,103.77082
+151,BP11,Segar MRT Station Singapore,Bukit Panjang LRT,1.3878645,103.7695318
+152,BP12,Jelapang MRT Station Singapore,Bukit Panjang LRT,1.3867268,103.7645554
+153,BP13,Senja MRT Station Singapore,Bukit Panjang LRT,1.3826994,103.7624
+154,BP14,Ten Mile Junction MRT Station Singapore,Bukit Panjang LRT,1.3809506,103.7603698
+155,STC,Sengkang MRT Station Singapore,Sengkang LRT,1.3915277,103.8954161
+156,SE1,Compassvale MRT Station Singapore,Sengkang LRT,1.3915277,103.8954161
+157,SE2,Rumbia MRT Station Singapore,Sengkang LRT,1.3914859,103.9058845
+158,SE3,Bakau MRT Station Singapore,Sengkang LRT,1.3880083,103.9054232
+159,SE4,Kangkar MRT Station Singapore,Sengkang LRT,1.383899,103.9021743
+160,SE5,Ranggung MRT Station Singapore,Sengkang LRT,1.3840212,103.8974179
+161,SW1,Cheng Lim MRT Station Singapore,Sengkang LRT,1.3962859,103.8938273
+162,SW2,Farmway MRT Station Singapore,Sengkang LRT,1.3971978,103.8892102
+163,SW3,Kupang MRT Station Singapore,Sengkang LRT,1.3982154,103.8813249
+164,SW4,Thanggam MRT Station Singapore,Sengkang LRT,1.397371,103.87542
+165,SW5,Fernvale MRT Station Singapore,Sengkang LRT,1.3919085,103.8762379
+166,SW6,Layar MRT Station Singapore,Sengkang LRT,1.3921296,103.8799776
+167,SW7,Tongkang MRT Station Singapore,Sengkang LRT,1.3894149,103.8858114
+168,SW8,Renjong MRT Station Singapore,Sengkang LRT,1.3866901,103.8905258
+169,PTC,Punggol MRT Station Singapore,Punggol LRT,1.40517,103.9023559
+170,PE1,Cove MRT Station Singapore,Punggol LRT,1.3994505,103.9058244
+171,PE2,Meridian MRT Station Singapore,Punggol LRT,1.3969023,103.9088651
+172,PE3,Coral Edge MRT Station Singapore,Punggol LRT,1.3938159,103.9126489
+173,PE4,Riviera MRT Station Singapore,Punggol LRT,1.3944946,103.916072
+174,PE5,Kadaloor MRT Station Singapore,Punggol LRT,1.3995025,103.9165279
+175,PE6,Oasis MRT Station Singapore,Punggol LRT,1.401626,103.913702
+176,PE7,Damai MRT Station Singapore,Punggol LRT,1.4050638,103.9085528
+177,PW1,Sam Kee MRT Station Singapore,Punggol LRT,1.409718,103.904888
+178,PW2,Teck Lee MRT Station Singapore,Punggol LRT,1.4368446,103.837173
+179,PW3,Punggol Point MRT Station Singapore,Punggol LRT,1.40517,103.9023559
+180,PW4,Samudera MRT Station Singapore,Punggol LRT,1.352083,103.819836
+181,PW5,Nibong MRT Station Singapore,Punggol LRT,1.4118256,103.9003015
+182,PW6,Sumang MRT Station Singapore,Punggol LRT,1.3680936,103.8958922
+183,PW7,Soo Teck MRT Station Singapore,Punggol LRT,1.4044943,103.8970444
